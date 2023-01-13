@@ -19,8 +19,6 @@ Explore the data in order to obtain more insight from the data.
 
 Classification accuracy - number of correct prediction divided by the total number of prediction.
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fglassboxmedicine.com%2F2019%2F02%2F17%2Fmeasuring-performance-the-confusion-matrix%2F&psig=AOvVaw2sxbV-6sg4xcfFbIs1jspC&ust=1673687637345000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOiE47uaxPwCFQAAAAAdAAAAABAD
-
 ### Deliverables ###
 
 Accurate predictive algorithms
